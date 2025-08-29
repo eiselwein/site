@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>eiselwein</title>
+    <link href="https://eiselwein.de/feed.xml" rel="self" />
+    <link href="https://eiselwein.de" />
+    <updated>2025-07-27T19:49:06+02:00</updated>
+    <author>
+        <name>Eiselwein</name>
+    </author>
+    <id>https://eiselwein.de</id>
+
+    <entry>
+        <title>Eiselwein – Pfalzerlebnisse rund um den Wein</title>
+        <author>
+            <name>Eiselwein</name>
+        </author>
+        <link href="https://eiselwein.de/wer-ich-bin/"/>
+        <id>https://eiselwein.de/wer-ich-bin/</id>
+
+        <updated>2025-07-10T21:59:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Pfälzer Weinbergführungen, Weinseminare und Rundgänge durch den Edelweinort Weisenheim am Berg </p>
+<p> </p>
+<p><strong>Thorsten Eiselstein</strong></p>
+<p>Anerkannter Berater für Deutschen Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz<br>Förderpreisträger 2025</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pfälzer Weinbergführungen, Weinseminare und Rundgänge durch den Edelweinort Weisenheim am Berg </p>
+<p> </p>
+<p><strong>Thorsten Eiselstein</strong></p>
+<p>Anerkannter Berater für Deutschen Wein (DWI)<br>Kultur- und Weinbotschafter Pfalz<br>Förderpreisträger 2025</p>
+
+<p>In Ludwigshafen am Rhein geboren, aufgewachsen in Weisenheim am Berg<br>Studium der Pädagogik mit den Schwerpunkten Erwachsenenbildung und Sozialpädagogik</p>
+<p>Fachleiter am Seminar für Ausbildung und Fortbildung der Lehrkräfte Karlsruhe (Berufliche Schulen)</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
